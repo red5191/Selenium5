@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13219d82-6138-41a9-b876-7c28ac3a20a1" name="Changes" comment="dz5">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/selenium_python_chrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/selenium_python_chrome.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/selenium_python_edge.py" beforeDir="false" afterPath="$PROJECT_DIR$/selenium_python_edge.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/selenium_python_firefox.py" beforeDir="false" afterPath="$PROJECT_DIR$/selenium_python_firefox.py" afterDir="false" />
@@ -46,19 +48,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.selenium_python.executor&quot;: &quot;Run&quot;,
-    &quot;Python.selenium_python_chrome.executor&quot;: &quot;Run&quot;,
-    &quot;Python.selenium_python_edge.executor&quot;: &quot;Run&quot;,
-    &quot;Python.selenium_python_firefox.executor&quot;: &quot;Run&quot;,
-    &quot;Python.selenium_python_opera.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/the_r/PycharmProjects/Selenium3&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.selenium_python.executor": "Run",
+    "Python.selenium_python_chrome.executor": "Run",
+    "Python.selenium_python_edge.executor": "Run",
+    "Python.selenium_python_firefox.executor": "Run",
+    "Python.selenium_python_opera.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/the_r/PycharmProjects/Selenium6"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\the_r\PycharmProjects\Selenium3" />
